@@ -1,0 +1,62 @@
+body{
+  
+
+  background: url(https://cdn.pixabay.com/photo/2017/12/28/12/31/cute-3045126_960_720.jpg); 
+  background-size: cover;
+  border:10px;
+
+}
+.o1 {
+  display:flex;
+  border:10px;
+    
+  }
+
+.c2 {
+  font-size: xxx-large;
+  width: 200px;
+  height: 200px;
+    border-radius: 70%;
+    margin: 1 auto;
+    background: radial-gradient(circle, rgb(49, 248, 232)23px, rgb(102, 103, 190)67px, rgb(75, 125, 190) 65px, rgb(137, 204, 231) 87px);
+    border: 2px solid #aca2a2; /* Параметры рамки */
+    background-color: rgb(245, 223, 27); /* Цвет фона */
+    
+  }
+
+.c1  {
+  font-size: xxx-large;;
+  width: 200px;
+  height: 200px;
+  border-radius: 70%;
+  margin: 1 auto;
+  background: radial-gradient(circle, rgb(49, 248, 232)23px, rgb(102, 103, 190)67px, rgb(75, 125, 190) 65px, rgb(137, 204, 231) 87px);
+  border: 2px solid #aca2a2; /* Параметры рамки */
+  background-color: rgb(245, 223, 27); /* Цвет фона */
+ 
+}
+
+.R 
+{
+  font-size: xx-large;;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgb(203, 255, 14)23px, rgb(232, 235, 78)67px, rgb(231, 252, 113) 65px, rgb(255, 231, 19) 87px);
+  flex: 1;
+  flex-direction: column
+}
+
+
+
+
+
+
+.do-action{
+
+  flex: 0;
+  margin: 5px;
+  font-size: 32px;
+  line-height: 1.5;
+  background: radial-gradient(circle, rgb(9, 178, 240), rgb(151, 227, 255) 5px, rgb(160, 230, 255) 15px, rgb(137, 204, 231) 15px);
+  }
